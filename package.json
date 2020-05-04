@@ -1,0 +1,22 @@
+{
+  "name": "codingcommon",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18818141851/codingcommon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18818141851/codingcommon/issues"
+  },
+  "homepage": "https://github.com/18818141851/codingcommon#readme"
+}
